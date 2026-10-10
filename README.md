@@ -113,4 +113,3 @@ This system provides **evidence-based risk estimation**, not prediction guarante
 - **Backend**: Python, FastAPI, SQLAlchemy, SQLite, NetworkX
 - **Frontend**: React, TypeScript, Vite, Tailwind CSS, Recharts, Cytoscape.js
 - **Intelligence**: Local CVE fixtures (always available) + OSV (optional enrichment)
-
